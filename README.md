@@ -1,2 +1,0 @@
-# knownCodeFirstLessons
-Created with CodeSandbox
